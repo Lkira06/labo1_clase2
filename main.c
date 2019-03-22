@@ -7,7 +7,7 @@ int main()
    int max;
    int min;
    int flag=0;
-
+sarasasa
    do{
     printf("Ingrese un numero: ");
     scanf("%d",&num);
